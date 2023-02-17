@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main - main block, execution starts here.
- *
- * Return : 0 (Success)
-*/
+ * main - main block
+ * Return: 0 (Success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle\n");

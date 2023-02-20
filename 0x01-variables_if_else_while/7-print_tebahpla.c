@@ -1,16 +1,14 @@
 #include <stdio.h>
 /**
  * main - main block of code
- *
- * Description: using the main function
  * Return: 0 (success)
  */
 int main(void)
 {
-char c;
-for (c = '0'; c <= '9'; c++)
+char i;
+for (i = 'z'; i >= 'a'; i--)
 {
-	putchar(c);
+putchar(i);
 }
 putchar('\n');
 return (0);

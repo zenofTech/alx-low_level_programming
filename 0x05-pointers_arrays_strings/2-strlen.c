@@ -3,11 +3,11 @@
 
 /**
  * _strlen - Returns the length of a string.
- * @str: string.
+ * @s: string.
  *
  * Return: length.
  */
-int  _strlen( char *s)
+int  _strlen(char *s)
 {
 	int i = 0;
 

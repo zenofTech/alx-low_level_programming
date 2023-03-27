@@ -9,3 +9,4 @@
 | FOLDERS:				| USAGES.					
 | --------------------------------------| ----------------------------------------------------------------|
 | 0x00-hello_world			| It contains C Hello world files and preprosser, compiler and linker, files with scripts.|
+| 0x01-variables_if_else_while| It contains C conditional statements files.
